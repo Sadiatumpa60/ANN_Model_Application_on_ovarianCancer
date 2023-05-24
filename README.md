@@ -18,4 +18,4 @@ used to extract those selective measures.
 
 ## Result and Methodology:
 
-We have used 16 layers of ANN model including dropout. Wh have
+We have used 16 layers of ANN model including dropout. We have have implemented 20 epochs there. And finally we have got accuracy of 75% on average.

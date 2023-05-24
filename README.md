@@ -15,3 +15,7 @@ used to extract those selective measures.
 
 ## ANN Model Architecture:
 <img width="296" alt="model" src="https://github.com/Sadiatumpa60/ANN_Model_Application_on_ovarianCancer/assets/131945108/05736aba-ee73-4493-b736-f5bbdf57edd3">
+
+## Result and Methodology:
+
+We have used 16 layers of ANN model including dropout. Wh have

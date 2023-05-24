@@ -12,3 +12,6 @@ and Mean corpuscular hemoglobin are some of them from those unique measures. Bec
 AU5800 and Sysmex XE-2100 were used as instrumental support.Some significant methods like FCM
 with semiconductor laser,Phosphomolyase method,ion selective electrode method,XB-I method were
 used to extract those selective measures.
+
+## ANN Model Architecture:
+<img width="296" alt="model" src="https://github.com/Sadiatumpa60/ANN_Model_Application_on_ovarianCancer/assets/131945108/05736aba-ee73-4493-b736-f5bbdf57edd3">

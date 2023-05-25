@@ -14,7 +14,7 @@ with semiconductor laser,Phosphomolyase method,ion selective electrode method,XB
 used to extract those selective measures.
 
 ## ANN Model Architecture:
-<img width="296" alt="model" src="https://github.com/Sadiatumpa60/ANN_Model_Application_on_ovarianCancer/assets/131945108/05736aba-ee73-4493-b736-f5bbdf57edd3">
+<img width="296" alt="model" src="https://github.com/Sadiatumpa60/ANN_Model_Application_on_ovarianCancer/assets/131945108/3cabfb5c-2f99-48a0-b0aa-c17ccb567edb">
 
 ## Result and Methodology:
 
